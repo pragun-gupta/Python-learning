@@ -2,12 +2,13 @@
 # If the product of the two numbers is less than or equal to 1000, return their product; 
 # otherwise, return their sum.
 
-num1 = 20
-num2 = 40
+num1 = input("Enter first number")
+num2 = input("Enter the second number")
 
-product = num1*num2
+product = int(num1)*int(num2)
 
 if product <= 1000:
     print(product)
 else:
-    print(num1+num2)
+    sum = int(num1)+int(num2)
+    print(sum)
