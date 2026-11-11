@@ -2,5 +2,5 @@
 
 filename = input("Enter the filrname: ")
 
-extract = filename.split(".")
+extract = filename.split(".") # makes a list with seperation form '.'
 print("the extension of the file is : " + repr(extract[-1]))
