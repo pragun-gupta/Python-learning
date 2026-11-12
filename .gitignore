@@ -15,3 +15,7 @@ venv/
 # System files
 .DS_Store
 Thumbs.db
+
+# Generated data
+*.db
+features.csv
