@@ -1,6 +1,9 @@
 # Python Cheatsheet
 
-Things I looked up, in my own words.
+## Terminal commands
+- cd: Opens the directory file
+- python --version: Shows the version of python installed
+- python ____.py: Runs the files and provides the output 
 
 ## Strings
 - len(s): number of characters
