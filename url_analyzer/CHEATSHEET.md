@@ -9,6 +9,9 @@
 - len(s): number of characters
 - s.isdigit(): True if the character is a digit
 - s.startswith('https'): True if the string begins with that text
+- input('URL: '): returns what the user typed.
+- len(): counts characters in a string.
+- strip(): So it doesn't count spaces
 
 ## Lists and dictionaries
 - (add)
